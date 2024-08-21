@@ -2,4 +2,6 @@ Learnin Git with Git hub
 # git init
 # git add file.name
 # git commit (git commit -m "add a file")
+# git checkout -b feature/authenticaton
+This is my auth branch 
 
